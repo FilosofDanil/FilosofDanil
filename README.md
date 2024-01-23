@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tTrading application developed on Java<br>👯 I’m looking to collaborate on web project backend side developing<br>🤝 I’m looking for help with frontend for website<br>🌱 I’m currently learning RabbitMQ and message handling<br>💬 Ask me about backenddevelopment
+🔭 I’m currently working on Trading application developed on Java<br>👯 I’m looking to collaborate on web project backend side developing<br>🤝 I’m looking for help with frontend for website<br>🌱 I’m currently learning RabbitMQ and message handling<br>💬 Ask me about backenddevelopment
 
 
 ## 🌐 Socials:
